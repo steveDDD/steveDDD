@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @steveDDD . I bought a socond hand Voron 2.4 350mm and I am trying to put it together. The 4 parts are missing. they are Z bearing bloks. Would you please help me with the stl file of the Z bearing bloks?
